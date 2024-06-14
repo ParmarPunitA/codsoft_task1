@@ -37,7 +37,8 @@ This TODO List application is developed as part of an internship assignment at C
 
 3. **Usage**
 
-  ```python3
-  python3 -u TODO_List.py```
+  ```python
+     python3 -u TODO_List.py
+  ```
 
   
