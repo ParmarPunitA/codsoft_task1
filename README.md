@@ -15,6 +15,7 @@ This TODO List application is developed as part of an internship assignment at C
 - **Tkinter**: Python's standard GUI library.
 - **PIL (Pillow)**: Python Imaging Library used for image handling.
 - **JSON**: Data storage and retrieval.
+- **CustomTkinter**: A more mordern looking gui app lib based on Tkinter.
 
 ## Installation
 
